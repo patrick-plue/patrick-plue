@@ -1,18 +1,22 @@
 # **<div align="center">< 👋 Hello World! /\></div>**
 
-## <div align="center">I'm Patrick - Full Stack Web Developer 💻</div>
-
-<br/>
-
-<div align="center">
+## <div align="center">I'm Patrick - Full Stack Web Developer 💻 </div>
+  <div align="center">
 <a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
+
 <br/>
+
+
+<br/>
+
+
 
 - 🌱 I’m currently learning **JavaScript: The Hard Parts, v2** with *Will Sentance* @ [frontendmaster](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
+<br/>
 <br/>
 
 <div align="center">  
@@ -42,6 +46,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
+<br/>
+  <br/>
 <br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=patrick-plue&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
