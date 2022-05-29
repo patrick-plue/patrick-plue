@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning JavaScript - the hard parts with Will Sentance @ [frontendmaster](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
 <br/>
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -56,8 +55,7 @@
 <a href="https://linkedin.com/in/ www.linkedin.com/in/patrick-pluequett" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -67,8 +65,7 @@
 
 <div align="center">
 <img src="https://www.codewars.com/users/_plue/badges/large" align="center" height="25" width="" />
-</div>  
-
+</div>
 
 <br/>
 
@@ -77,7 +74,3 @@
 <br/>
 
 <br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
