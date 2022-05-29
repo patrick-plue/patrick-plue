@@ -2,6 +2,15 @@
 
 ## <div align="center">I'm Patrick - Full Stack Web Developer 💻</div>
 
+<br/>
+
+<div align="center">
+<a href="https://linkedin.com/in/ www.linkedin.com/in/patrick-pluequett" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+<br/>
+
 - 🌱 I’m currently learning JavaScript - the hard parts with Will Sentance @ [frontendmaster](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
 <br/>
@@ -18,7 +27,8 @@
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
@@ -34,28 +44,11 @@
 
 <br/>
 
-## Connect with me
-
-<div align="center">
-<a href="https://linkedin.com/in/ www.linkedin.com/in/patrick-pluequett" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
-
-<br/>
-
-## Github Stats
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=patrick-plue&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
+<br/>
 <div align="center">
 <img src="https://www.codewars.com/users/_plue/badges/large" align="center" height="25" width="" />
 </div>
 
 <br/>
-
-<br/>
-
-<br/>
-
-<br />
