@@ -11,7 +11,7 @@
 </div>
 <br/>
 
-- 🌱 I’m currently learning **JavaScript - the hard parts with** *Will Sentance* @ [frontendmaster](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- 🌱 I’m currently learning **JavaScript: The Hard Parts, v2** with *Will Sentance* @ [frontendmaster](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
 <br/>
 
