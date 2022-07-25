@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript: The Hard Parts, v2** with *Will Sentance* @ [frontendmaster](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- 🌱 I’m currently learning **Complete Intro to React, v7** with *Brian Holt* @ [frontendmaster](https://frontendmasters.com/courses/complete-react-v7/)
 
 <br/>
 <br/>
