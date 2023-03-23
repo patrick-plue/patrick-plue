@@ -14,7 +14,6 @@
 
 
 
-- 🌱 I’m currently learning **Complete Intro to React, v7** with *Brian Holt* @ [frontendmaster](https://frontendmasters.com/courses/complete-react-v7/)
 
 <br/>
 <br/>
