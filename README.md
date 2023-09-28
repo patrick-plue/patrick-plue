@@ -1,16 +1,15 @@
-<div align="left"> 👋 **Salut!** </div>
+<div align="left"> 👋 Salut! </div>
+<div align="left">I'm Patrick ➟ Full Stack Web Developer and Trainer 💻 </div>
+<div align="left"> 📖 Currently Learning:  Datastructures and Algorithms </div>
+<div align="left"> 🏫 Teaching:  MERN and PERN Stack </div>
 
-<div align="left">I'm Patrick - **Full Stack Web Developer** 💻 </div>
-<div align="left">Currently Learning: _Datastructures and Algorithms_ </div>
-
-<div align="center">
-  <br/>
-  <br/>
+<div align="left" >
 <a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  height=50/>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  height=25/>
 </a>  
 </div>
 
+<hr/>
 
 
 <br/>
@@ -43,9 +42,9 @@
   <br>
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" />  
 </div>
 
 <br/>
@@ -54,7 +53,7 @@
 
 <br/>
 <div align="center">
-<img src="https://www.codewars.com/users/_plue/badges/large" align="center" height="40" width="" />
+<img src="https://www.codewars.com/users/_plue/badges/large" align="center" height="35" width="" />
 </div>
 
 <br/>
