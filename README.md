@@ -1,7 +1,7 @@
 <div align="left"> 👋 Salut! </div>
 <div align="left">I'm Patrick ➟ Full Stack Web Developer and Trainer 💻 </div>
-<div align="left"> 📖 Currently Learning:  Datastructures and Algorithms </div>
-<div align="left"> 🏫 Teaching:  MERN and PERN Stack </div>
+<div align="left"> 📖 Currently Learning:  Harvard CS50</div>
+<div align="left"> 🏫 Teaching: MERN and PERN Stack </div>
 
 <div align="left" >
 <a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
