@@ -1,6 +1,6 @@
 <div align="left"> 👋 Salut! </div>
-<div align="left">I'm Patrick ➟ Full Stack Web Developer and Trainer 💻 </div>
-<div align="left"> 📖 Currently Learning:  Harvard CS50</div>
+<div align="left">I'm Patrick ➟ Web Developer and Trainer 💻 </div>
+<div align="left"> 📖 Currently Learning:  Functional Programming with JS</div>
 <div align="left"> 🏫 Teaching: MERN and PERN Stack </div>
 
 <div align="left" >
