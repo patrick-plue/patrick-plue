@@ -1,8 +1,7 @@
 <div align="left"> 👋 Salut! </div>
-<div align="left">I'm Patrick ➟ Web Developer and Trainer 💻 </div>
-<div align="left"> 📖 Currently Learning:  Functional Programming with JS</div>
-<div align="left"> 🏫 Teaching: MERN and PERN Stack </div>
-
+<div align="left">I'm Patrick ➟ <i>Web Developer and Trainer </i> 💻  </div>
+<div align="left"> 📖 Currently Learning: <b>Functional Programming with JS</b></div>
+<div align="left"> 🏫 Teaching: MERN and PERN Stack</div>
 <div align="left" >
 <a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  height=25/>
