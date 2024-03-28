@@ -1,6 +1,6 @@
 <div align="left"> 👋 Salut! </div>
 <div align="left">I'm Patrick ➟ <i>Web Developer and Trainer </i> 💻  </div>
-<div align="left"> 📖 Currently Learning: <b>Functional Programming with JS</b></div>
+<div align="left"> 📖 Currently Learning: <b>NextJS</b></div>
 <div align="left"> 🏫 Teaching: MERN and PERN Stack</div>
 <div align="left" >
 <a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
