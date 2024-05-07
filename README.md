@@ -1,7 +1,8 @@
 # Salut, I'm Patrick! 👋
-👩‍💻 I'm currently experimenting with building command line tools
 
-🧠 I'm currently learning Rust and Vim Motions
+👩‍💻 I'm currently teaching the MERN / PERN Stack
+
+🧠 I'm currently learning Docker and Vim Motions
 
 👯‍♀️ I'm looking to collaborate on interesting projects. Make a suggestion!
 
@@ -10,14 +11,14 @@
 ⚡️ Fun fact: I studied art history and literature
 
 📫 How to reach me: ppluequett \<at\> gmail.com
+
 <div align="center">
 <a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  height=25/>
 </a>  
 </div>
 
-## 🛠 Skills 
-
+## 🛠 Skills
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" />  
@@ -28,7 +29,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="75" />
-
 
 </div>
 
@@ -53,10 +53,14 @@
 <br/>
   <br/>
 
-
 <br/>
 <div align="center">
 <img src="https://www.codewars.com/users/_plue/badges/large" align="center" height="35" width="" />
+</div>
+<br/>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-plue&hide_progress=true&theme=swift)
 </div>
 
 <br/>
