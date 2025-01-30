@@ -1,25 +1,5 @@
 # Salut, I'm Patrick! 👋
 
-👩‍💻 I'm currently teaching the MERN / PERN Stack
-
-🧠 I'm currently learning Docker and Vim Motions
-
-👯‍♀️ I'm looking to collaborate on interesting projects. Make a suggestion!
-
-💬 Ask me about the MERN/PERN Stack
-
-⚡️ Fun fact: I studied art history and literature
-
-📫 How to reach me: ppluequett \<at\> gmail.com
-
-<div align="center">
-<a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  height=25/>
-</a>  
-</div>
-
-## 🛠 Skills
-
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
@@ -64,3 +44,8 @@
 </div>
 
 <br/>
+<div align="center">
+<a href="https://linkedin.com/in/patrick-pluequett" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"  height=25/>
+</a>  
+</div>
