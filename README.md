@@ -12,14 +12,8 @@
 
 </div>
 <br/>
-<div >
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-plue&hide_progress=true&theme=swift)
+<div > 
 </div>
-
-
-
-<br/>
 <div >
 <img src="https://www.codewars.com/users/_plue/badges/large" align="center" height="35" width="" />
 </div>
